@@ -1,3 +1,5 @@
+# We will examine lambda&map&filter&reduce functions.
+
 ################################# lambda #################################
 def summer(a,b):
     return a+b
